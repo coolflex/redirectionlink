@@ -3,7 +3,7 @@
 <head>
     <title>Redirection Page</title>
     
-    <script>window.location.replace("https://www.wooheal.blogspot.com/2023/03/14-phos-of-worlds-htest-teacher-that.html");</script>
+    <script>window.location.replace("https://wooheal.blogspot.com");</script>
 </head>
 <body>
     <h1>Redirecting...</h1>
